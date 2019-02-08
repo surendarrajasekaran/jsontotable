@@ -1,0 +1,22 @@
+{
+    "Project":  "Rendering Core",
+    "Build_No":  "Build-208",
+    "Date":  "2/7/2019 2:16 PM",
+    "Component":  "Easy Color On Verification",
+    "PDL_Format":  "PCL6",
+    "Driver_Version":  "6.4.1",
+    "Printer_Name":  "HP Color MFP E77822-25-30 PCL-6 (V4)",
+    "Test_Data":  [
+                      {
+                          "Filename":  "PW4T61NM.xps",
+                          "Expected":  10,
+                          "Actual":  10
+                      }
+                  ],
+    "Failed_Data":  [
+                        {
+                            "Filename":  "pdf.xps",
+                            "Failed_Reason":  "Failed Because of 0 KB PRN"
+                        }
+                    ]
+}
